@@ -1,0 +1,24 @@
+---
+id: 74741494
+name: Level Tuning
+type: Spell Card
+frameType: spell
+desc: Reduce the Level of all face-up monsters you control by 1, until the End Phase.
+race: Normal
+card_sets:
+- set_name: Light of Destruction
+  set_code: LODT-EN059
+  set_rarity: Common
+  set_rarity_code: "(C)"
+  set_price: '1.53'
+card_images:
+- id: 74741494
+  image_url: https://images.ygoprodeck.com/images/cards/74741494.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/74741494.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/74741494.jpg
+card_prices:
+- cardmarket_price: '0.22'
+  tcgplayer_price: '0.15'
+  ebay_price: '0.99'
+  amazon_price: '1.39'
+  coolstuffinc_price: '0.25'
